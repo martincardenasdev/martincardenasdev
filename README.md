@@ -2,7 +2,7 @@
 
 .NET and TypeScript developer
 
-**Languages and tools:**
+**Languages, frameworks and tools:**
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,redux,remix,angular,rxjs,mongodb,mysql,postgres,postman,sass&theme=light)](https://skillicons.dev)
 
